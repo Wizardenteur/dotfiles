@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = menault@hotmail.fr
+	name = Merlin Enault
